@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeNumbers", "primeNumbers\primeNumbers.csproj", "{30438ECB-E5A7-466A-9ECA-6F462DE10C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30438ECB-E5A7-466A-9ECA-6F462DE10C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30438ECB-E5A7-466A-9ECA-6F462DE10C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30438ECB-E5A7-466A-9ECA-6F462DE10C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30438ECB-E5A7-466A-9ECA-6F462DE10C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3B4D6C-1E77-4819-94DB-5937AC007349}
+	EndGlobalSection
+EndGlobal
