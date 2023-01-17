@@ -1,0 +1,15 @@
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.csproj.AssemblyReference.cache
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.AssemblyInfoInputs.cache
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.AssemblyInfo.cs
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.csproj.CoreCompileInputs.cache
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\bin\Debug\net6.0\SortSelectionAlgorythm.exe
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\bin\Debug\net6.0\SortSelectionAlgorythm.deps.json
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\bin\Debug\net6.0\SortSelectionAlgorythm.runtimeconfig.json
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\bin\Debug\net6.0\SortSelectionAlgorythm.dll
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\bin\Debug\net6.0\SortSelectionAlgorythm.pdb
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.dll
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\refint\SortSelectionAlgorythm.dll
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.pdb
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\SortSelectionAlgorythm.genruntimeconfig.cache
+D:\PracticeExamEx\Algorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\SortSelectionAlgorythm\obj\Debug\net6.0\ref\SortSelectionAlgorythm.dll
