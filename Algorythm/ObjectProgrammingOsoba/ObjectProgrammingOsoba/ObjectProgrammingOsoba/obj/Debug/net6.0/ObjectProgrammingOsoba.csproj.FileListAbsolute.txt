@@ -1,0 +1,15 @@
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\bin\Debug\net6.0\ObjectProgrammingOsoba.exe
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\bin\Debug\net6.0\ObjectProgrammingOsoba.deps.json
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\bin\Debug\net6.0\ObjectProgrammingOsoba.runtimeconfig.json
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\bin\Debug\net6.0\ObjectProgrammingOsoba.dll
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\bin\Debug\net6.0\ObjectProgrammingOsoba.pdb
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.csproj.AssemblyReference.cache
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.AssemblyInfoInputs.cache
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.AssemblyInfo.cs
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.csproj.CoreCompileInputs.cache
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.dll
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\refint\ObjectProgrammingOsoba.dll
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.pdb
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ObjectProgrammingOsoba.genruntimeconfig.cache
+D:\PracticeExamEx\Algorythm\ObjectProgrammingOsoba\ObjectProgrammingOsoba\ObjectProgrammingOsoba\obj\Debug\net6.0\ref\ObjectProgrammingOsoba.dll
