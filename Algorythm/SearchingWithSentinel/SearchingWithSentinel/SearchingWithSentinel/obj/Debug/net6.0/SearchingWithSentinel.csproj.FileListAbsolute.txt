@@ -1,0 +1,15 @@
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\bin\Debug\net6.0\SearchingWithSentinel.exe
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\bin\Debug\net6.0\SearchingWithSentinel.deps.json
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\bin\Debug\net6.0\SearchingWithSentinel.runtimeconfig.json
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\bin\Debug\net6.0\SearchingWithSentinel.dll
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\bin\Debug\net6.0\SearchingWithSentinel.pdb
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.csproj.AssemblyReference.cache
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.AssemblyInfoInputs.cache
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.AssemblyInfo.cs
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.csproj.CoreCompileInputs.cache
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.dll
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\refint\SearchingWithSentinel.dll
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.pdb
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\SearchingWithSentinel.genruntimeconfig.cache
+D:\PracticeExamEx\Algorythm\SearchingWithSentinel\SearchingWithSentinel\SearchingWithSentinel\obj\Debug\net6.0\ref\SearchingWithSentinel.dll
