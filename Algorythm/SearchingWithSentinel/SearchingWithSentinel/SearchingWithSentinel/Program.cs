@@ -15,7 +15,7 @@ static void main()
     }
     else
     {
-        Console.WriteLine("Szukana wartośc znaduje się pod idx: " + result);
+        Console.WriteLine("Szukana wartośc znaduje się pod index: " + result);
     }
 }
 
