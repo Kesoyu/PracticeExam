@@ -4,10 +4,8 @@ main();
 static void main()
 {
     const int range = 50;
-    int[] array = new int[range];
-    Random random = new Random();
-    for(int i = 0; i < range; i++)
-        array[i] = random.Next(1, 10);
+    int[] array = initArray(range);
+
     int result = searchingWithSentinel(array, 5);
     if (result == -1)
     {
@@ -17,6 +15,15 @@ static void main()
     {
         Console.WriteLine("Szukana wartośc znaduje się pod index: " + result);
     }
+}
+
+static int[] initArray(int range)
+{
+    int[] array = new int[range];
+    Random random = new Random();
+    for (int i = 0; i < range; i++)
+        array[i] = random.Next(1, 100);
+    return array;
 }
 
 
@@ -29,7 +36,7 @@ static int searchingWithSentinel(int[] array, int number)
     showArray(array);
     for(int i = 0; i < coppied.Length; i++)
     {
-        if (coppied[i] == number && i!=coppied.Length-1)
+        if (coppied[i] == number && i != coppied.Length - 1)
         {
             return i;
         }
