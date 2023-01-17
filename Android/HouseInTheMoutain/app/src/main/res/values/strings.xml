@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HouseInTheMountain</string>
+    <string name="title">Domek w górach</string>
+    <string name="Like">Polub</string>
+    <string name="Delete">Usuń</string>
+    <string name="Save">Zapisz</string>
+    <string name="DesriptionHeader">Opis</string>
+    <string name="DescriptionContent">Odwiedz komfortowy domek w Sudetach, blisko do szlaków turystycznych</string>
+    <string name="LikeNumber">0 polubień</string>
+    <string name="imageAltText">House in the Mountain</string>
 </resources>
